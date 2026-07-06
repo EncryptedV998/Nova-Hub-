@@ -1,1 +1,2 @@
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/AhmadSabbr/Main/refs/heads/main/Library/V2.lua"))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/AhmadSabbr/Script-Hub/refs/heads/main/Settings.lua"))()
